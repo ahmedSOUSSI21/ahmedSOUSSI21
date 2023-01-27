@@ -18,5 +18,5 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=ahmedSOUSSI21&label=Profile%20views&color=ce9927&style=flat" alt="life"> 
 </a>
 <a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsoussi21&theme=dracula&layout=compact" alt="life2">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsoussi21&theme=tokyonight&layout=compact" alt="life2">
 </a>
